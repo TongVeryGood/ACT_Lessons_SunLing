@@ -1,5 +1,19 @@
 [
   {
+"id": 12,
+"title": "Russian for Free: Learn Russian online for free with interactive lessons",
+"title_zh": "免费俄语学习：通过互动课程免费在线学习俄语",
+"source": "RussianForFree.com",
+"link": "https://www.russianforfree.com/",
+"tags": ["Language Learning", "Russian", "Free Resources", "Education"],
+"tags_zh": ["语言学习", "俄语", "免费资源", "教育"],
+"date": "2024-05-20",
+"summary_en": "A comprehensive free online resource for learning Russian, offering interactive lessons, grammar exercises, vocabulary building, and audio materials. The website provides structured courses from beginner to intermediate levels with practical examples and cultural insights.",
+"summary_zh": "一个全面的免费在线俄语学习资源，提供互动课程、语法练习、词汇建设和音频材料。该网站提供从初级到中级的结构化课程，包含实用例子和文化见解。",
+"best_quote_en": "Learn Russian for free with our easy-to-follow lessons that include audio examples, exercises, and cultural notes to help you master the language effectively.",
+"best_quote_zh": "通过我们易于遵循的课程免费学习俄语，课程包含音频示例、练习和文化注释，帮助您有效掌握语言。"
+},
+  {
 "id": 1,
 "title": "Python Official Documentation",
 "title_zh": "Python 官方文档",
