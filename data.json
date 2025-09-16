@@ -1,16 +1,15 @@
 [
   {
 "id": 1,
-"title": "Useful Websites Worth Collecting",
-"title_zh": "值得收藏的实用网站推荐",
-"source": "每日豆瓣",
-"link": "https://mp.weixin.qq.com/s/c-ItV_wOxPCv8d_nZWEwtA",
-"tags": ["Recommendation", "Resources", "Tools"],
-"tags_zh": ["推荐", "资源", "工具"],
-"date": "2025-01-12",
-"summary_en": "This article recommends 9 practical websites that cover various needs including free online music listening, movie and TV resources, novel downloads, and efficient office work. These websites are described as treasure troves for daily life and work, such as MyFreeMP3 for music, Anyknew for hot topic aggregation, and Deepl for translation.",
-"summary_zh": "这篇文章推荐了9个实用网站，覆盖免费在线听歌、影视资源、小说下载以及高效办公等多种需求。这些网站被描述为生活中的宝藏，例如MyFreeMP3用于听歌，Anyknew用于聚合各大平台热搜，Deepl用于翻译等。",
-"best_quote_en": "Each of these has different unique features that can help us be more convenient and efficient in life and work. Try them out, as they might open the door to a new world for you, making your days more colorful!",
-"best_quote_zh": "每一个都有不同的独特功能，能够帮助我们在生活和工作中更加便捷、高效。不妨试试看，有可能会为你开启一扇新世界的大门，让你的日子更加多姿多彩！"
-  }
+"title": "Python Official Documentation",
+"title_zh": "Python 官方文档",
+"source": "Python.org",
+"link": "https://docs.python.org/3/",
+"tags": ["Documentation", "Programming"],
+"tags_zh": ["文档", "编程"],
+"date": "2024-05-15",
+"summary_en": "Official documentation for the Python programming language, covering all aspects of the language from beginner to advanced topics.",
+"summary_zh": "Python 编程语言的官方文档，涵盖从入门到高级的所有语言特性。",
+"best_quote_en": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics."
+}
 ]
