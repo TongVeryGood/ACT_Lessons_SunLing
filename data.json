@@ -1,5 +1,47 @@
 [
   {
+    "id": 1,
+    "title": "Airbnb",
+    "title_zh": "爱彼迎",
+    "source": "Airbnb.com",
+    "link": "https://www.airbnb.com",
+    "tags": ["Travel", "Homestay", "Vacation Rentals", "Experiences"],
+    "tags_zh": ["旅行", "民宿", "度假租赁", "体验"],
+    "date": "2024-01-01",
+    "summary_en": "Airbnb is a global online marketplace for lodging, vacation rentals, and travel experiences. It connects hosts offering unique stays with travelers seeking accommodations beyond traditional hotels.",
+    "summary_zh": "爱彼迎是一个全球在线平台，提供民宿、度假租赁和旅行体验服务。它将提供独特住宿的房东与寻求非传统酒店体验的旅行者连接起来。",
+    "best_quote_en": "Belong anywhere.",
+    "best_quote_zh": "像在家一样，随处归属。"
+},
+  {
+    "id": 1,
+    "title": "Tripadvisor",
+    "title_zh": "猫途鹰",
+    "source": "Tripadvisor.com",
+    "link": "https://www.tripadvisor.com/",
+    "tags": ["Travel", "Reviews", "Hotels", "Restaurants", "Experiences"],
+    "tags_zh": ["旅行", "点评", "酒店", "餐厅", "体验"],
+    "date": "2024-01-01",
+    "summary_en": "Tripadvisor is one of the world's largest travel guidance platforms. It offers millions of reviews and ratings on hotels, restaurants, attractions, and experiences worldwide, helping travelers plan their trips with confidence.",
+    "summary_zh": "猫途鹰是全球最大的旅行指南平台之一，提供数百万条关于酒店、餐厅、景点和体验的点评与评分，帮助旅行者自信地规划行程。",
+    "best_quote_en": "Know better. Book better. Go better.",
+    "best_quote_zh": "了解更多，预订更佳，旅行更好。"
+},
+  {
+    "id": 1,
+    "title": "Booking.com",
+    "title_zh": "缤客网",
+    "source": "Booking.com",
+    "link": "https://www.booking.com/index.html",
+    "tags": ["Travel", "Hotel", "Booking", "Vacation", "Flights"],
+    "tags_zh": ["旅行", "酒店", "预订", "度假", "机票"],
+    "date": "2024-01-01",
+    "summary_en": "Booking.com is one of the world’s leading travel platforms, offering hotel reservations, vacation rentals, flights, car rentals, and travel experiences. It provides multilingual support and extensive accommodation options worldwide.",
+    "summary_zh": "缤客网是全球领先的旅行平台之一，提供酒店预订、度假屋、机票、租车及旅行体验服务，支持多语言和全球范围的住宿选择。",
+    "best_quote_en": "Find your stay, anywhere in the world.",
+    "best_quote_zh": "在世界任何地方找到你想要的住宿。"
+},
+  {
 "id": 13,
 "title": "Fender International: Official Online Store for Guitars, Basses, and Amplifiers",
 "title_zh": "Fender国际站：吉他、贝斯和放大器的官方在线商店",
