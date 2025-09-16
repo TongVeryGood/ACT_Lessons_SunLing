@@ -1,5 +1,33 @@
 [
   {
+"id": 14,
+"title": "Gibson Official Website: Iconic Guitars, Instruments and Gear",
+"title_zh": "Gibson 官网：经典吉他、乐器与装备",
+"source": "Gibson Brands, Inc.",
+"link": "https://www.gibson.com/",
+"tags": ["Music Instruments", "E-commerce", "Brand Official", "Resources"],
+"tags_zh": ["乐器", "电子商务", "品牌官方", "资源"],
+"date": "2024-05-20",
+"summary_en": "The official website of Gibson Brands, Inc., a legendary American manufacturer of premium acoustic and electric guitars, including the iconic Les Paul series. The site offers product browsing, online purchasing, artist spotlights, brand history, and support resources for musicians worldwide.",
+"summary_zh": "Gibson Brands, Inc. 是美国传奇高端原声吉他和电吉他（包括经典的 Les Paul 系列）制造商的官方网站。该网站提供产品浏览、在线购买、艺术家专访、品牌历史以及为全球音乐家提供的支持资源。",
+"best_quote_en": "Gibson has been shaping sound across generations and genres of music, becoming a global icon of music culture and continuing to inspire musical creativity.",
+"best_quote_zh": "Gibson 一直在塑造跨越几代人和多种音乐流派的声音，成为全球音乐文化的标志，并持续激发音乐创造力。"
+},
+  {
+"id": 13,
+"title": "Fender International: Official Online Store for Guitars, Basses, and Amplifiers",
+"title_zh": "Fender国际站：吉他、贝斯和放大器的官方在线商店",
+"source": "Fender Musical Instruments Corporation",
+"link": "https://intl.fender.com/",
+"tags": ["Music Instruments", "E-commerce", "Brand Official", "Resources"],
+"tags_zh": ["乐器", "电子商务", "品牌官方", "资源"],
+"date": "2024-05-20",
+"summary_en": "The official international online store of Fender, a world-renowned musical instrument brand. The website offers a wide range of electric guitars, acoustic guitars, basses, amplifiers, effectors, and accessories. It also provides detailed product information, artist profiles, learning resources, and support services, catering to musicians from beginners to professionals.",
+"summary_zh": "Fender是世界知名乐器品牌的官方国际在线商店。网站提供各种电吉他、原声吉他、贝斯、放大器、效果器和配件，并提供详细的产品信息、艺术家资料、学习资源和支持服务，满足从初学者到专业音乐家的需求。",
+"best_quote_en": "Fender has become a globally iconic music culture symbol, inspiring musical creativity and accompanying musicians at every stage of their musical journey.",
+"best_quote_zh": "Finder已成为全球标志性的音乐文化符号，不断激发音乐创造力，陪伴音乐人每段音乐旅程的各个舞台。"
+},
+  {
 "id": 12,
 "title": "Russian for Free: Learn Russian online for free with interactive lessons",
 "title_zh": "免费俄语学习：通过互动课程免费在线学习俄语",
