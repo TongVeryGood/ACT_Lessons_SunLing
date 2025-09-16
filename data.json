@@ -1,5 +1,59 @@
 [
   {
+    "id": 1,
+    "title": "Russian Education",
+    "title_zh": "俄罗斯教育",
+    "source": "russianedu.ru",
+    "link": "http://www.russianedu.ru/",
+    "tags": ["Education", "Russia", "Study Abroad", "Universities", "Scholarships"],
+    "tags_zh": ["教育", "俄罗斯", "留学", "大学", "奖学金"],
+    "date": "2024-01-01",
+    "summary_en": "RussianEdu.ru is an official portal about studying in Russia. It introduces universities, educational programs, scholarships, admission procedures for international students, and guidance on living in Russia.",
+    "summary_zh": "RussianEdu.ru 是俄罗斯留学官方门户网站，提供关于在俄留学的信息，包括大学、课程、奖学金、外国学生入学流程，以及在俄生活指南。",
+    "sections": {
+        "universities": {
+            "en": "Directory of Russian universities with profiles and programs.",
+            "zh": "俄罗斯大学目录，含学校简介和课程信息。"
+        },
+        "admission": {
+            "en": "Admission process for international students, including requirements and application steps.",
+            "zh": "外国学生入学流程，包括申请条件和步骤。"
+        },
+        "scholarships": {
+            "en": "Information about scholarships, state funding, and financial aid opportunities.",
+            "zh": "奖学金、政府资助和资助机会的信息。"
+        },
+        "programs": {
+            "en": "Details of bachelor, master, and doctoral programs available for international students.",
+            "zh": "面向外国学生的本科、硕士和博士课程详情。"
+        },
+        "living_in_russia": {
+            "en": "Guides on living conditions, student housing, culture, and daily life in Russia.",
+            "zh": "在俄生活指南，包括住宿、文化和日常生活。"
+        },
+        "news": {
+            "en": "Latest updates on Russian education system, reforms, and events.",
+            "zh": "俄罗斯教育体系、改革和活动的最新消息。"
+        }
+    },
+    "best_quote_en": "Discover study opportunities in Russia and connect with leading universities.",
+    "best_quote_zh": "探索在俄罗斯的学习机会，与顶尖大学建立联系。"
+},
+  {
+"id": 15,
+"title": "Tomorrowland Official Website: The Ultimate Electronic Music Festival Experience",
+"title_zh": "Tomorrowland 官方网站：终极电子音乐节体验",
+"source": "Tomorrowland",
+"link": "https://www.tomorrowland.com/home/",
+"tags": ["Music Festival", "Electronic Music", "Entertainment", "Cultural Event"],
+"tags_zh": ["音乐节", "电子音乐", "娱乐", "文化活动"],
+"date": "2024-07-19",
+"summary_en": "The official website of Tomorrowland, one of the world's largest and most iconic electronic music festivals held annually in Boom, Belgium. The site serves as a comprehensive hub for festival information, ticket sales, live streaming, artist lineups, immersive stage designs, and the celebration of unity and diversity through music. It provides details on its unique official currency 'Pearls', sustainability initiatives, and the Dreamville camping experience.",
+"summary_zh": "Tomorrowland是全球最大、最具标志性的电子音乐节之一的官方网站，该音乐节每年在比利时博姆举行。网站是音乐节信息的综合中心，提供门票销售、直播、艺术家阵容、沉浸式舞台设计，以及通过音乐庆祝团结与多元文化的详情。它还介绍了其独特的官方货币'Pearls'、可持续发展倡议以及Dreamville露营体验。",
+"best_quote_en": "Tomorrowland has evolved into a true worldwide phenomenon, connecting people from every corner of the earth through the universal language of electronic dance music, and is known for its engaging storylines.",
+"best_quote_zh": "Tomorrowland已演变成一个真正的全球现象，通过电子舞曲这种通用语言将来自地球每个角落的人们连接起来，并以其引人入胜的故事情节而闻名。"
+},
+  {
 "id": 14,
 "title": "Gibson Official Website: Iconic Guitars, Instruments and Gear",
 "title_zh": "Gibson 官网：经典吉他、乐器与装备",
