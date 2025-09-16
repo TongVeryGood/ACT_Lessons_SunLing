@@ -84,6 +84,20 @@
     "best_quote_zh": "在世界任何地方找到你想要的住宿。"
 },
   {
+  "id": 1,
+  "title": "Suno 中文教程",
+  "title_zh": "Suno 中文教程",
+  "source": "Suno 中文站",
+  "link": "https://www.sunogpt.cn/docs/",
+  "tags": ["AI Music", "Tutorial", "Suno"],
+  "tags_zh": ["AI音乐", "教程", "Suno"],
+  "date": "2025-09-16",
+  "summary_en": "The Suno Chinese Tutorial provides a comprehensive guide on using Suno AI for music creation, covering prompt writing, meta tags, lyrics editing, effects, and iteration strategies to produce professional-quality tracks.",
+  "summary_zh": "Suno 中文教程是一个全面的指南，介绍如何使用 Suno AI 进行音乐创作，涵盖提示词撰写、元标签应用、歌词编辑、音效和动态控制以及迭代优化方法，帮助用户创作专业水准的作品。",
+  "best_quote_en": "By mastering Suno's music prompts, meta tags, and lyric editing skills, you can elevate your music production to new heights.",
+  "best_quote_zh": "通过掌握 Suno 的音乐提示、元标签和歌词编辑技巧，你可以将音乐制作提升到新的高度。"
+},
+  {
 "id": 13,
 "title": "Fender International: Official Online Store for Guitars, Basses, and Amplifiers",
 "title_zh": "Fender国际站：吉他、贝斯和放大器的官方在线商店",
