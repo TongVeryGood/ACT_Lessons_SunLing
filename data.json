@@ -1,6 +1,48 @@
 [
   {
     "id": 1,
+    "title": "Air New Zealand",
+    "title_zh": "新西兰航空",
+    "source": "airnewzealand.co.nz",
+    "link": "https://www.airnewzealand.co.nz/",
+    "tags": ["Airline", "Flights", "Travel", "Booking", "New Zealand"],
+    "tags_zh": ["航空公司", "航班", "旅行", "预订", "新西兰"],
+    "date": "2024-01-01",
+    "summary_en": "Air New Zealand's official website provides flight booking, itinerary management, travel information, and access to the Airpoints frequent flyer program. It highlights Kiwi hospitality, safety, and innovative in-flight experiences.",
+    "summary_zh": "新西兰航空官网提供航班预订、行程管理、旅行资讯以及 Airpoints 常旅客计划。网站强调新西兰式热情、安全保障及创新的机上体验。",
+    "best_quote_en": "A Better Way to Fly.",
+    "best_quote_zh": "更美好的飞行体验。"
+},
+  {
+    "id": 1,
+    "title": "Emirates",
+    "title_zh": "阿联酋航空",
+    "source": "emirates.com",
+    "link": "https://www.emirates.com/hk/chinese/",
+    "tags": ["Airline", "Flights", "Luxury Travel", "Booking", "UAE"],
+    "tags_zh": ["航空公司", "航班", "奢华旅行", "预订", "阿联酋"],
+    "date": "2024-01-01",
+    "summary_en": "Emirates' official website offers flight booking, ticket management, travel updates, and access to the Skywards frequent flyer program. The airline is renowned for its luxury service, modern fleet, and global network connecting over 150 destinations.",
+    "summary_zh": "阿联酋航空官网提供航班预订、机票管理、旅行资讯以及 Skywards 常旅客计划。该航空以奢华服务、现代化机队和覆盖 150 多个目的地的全球航线网络而闻名。",
+    "best_quote_en": "Fly Better.",
+    "best_quote_zh": "非凡体验，尽在飞行。"
+},
+  {
+    "id": 1,
+    "title": "Singapore Airlines",
+    "title_zh": "新加坡航空",
+    "source": "singaporeair.com",
+    "link": "https://www.singaporeair.com/zh_TW/tw/home#/book/bookflight",
+    "tags": ["Airline", "Flights", "Travel", "Booking", "Asia"],
+    "tags_zh": ["航空公司", "航班", "旅行", "预订", "亚洲"],
+    "date": "2024-01-01",
+    "summary_en": "Singapore Airlines' official website provides flight booking, ticket management, travel information, and access to the KrisFlyer frequent flyer program. It emphasizes premium service, safety, and a world-class travel experience.",
+    "summary_zh": "新加坡航空官网提供航班预订、机票管理、旅行资讯以及 KrisFlyer 常旅客计划。网站突出其优质服务、安全保障与世界级的旅行体验。",
+    "best_quote_en": "A great way to fly.",
+    "best_quote_zh": "享受飞行的新境界。"
+},
+  {
+    "id": 1,
     "title": "Airbnb",
     "title_zh": "爱彼迎",
     "source": "Airbnb.com",
