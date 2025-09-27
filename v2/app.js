@@ -151,6 +151,10 @@ function applyAndRender() {
 
     // 渲染结果
     render(view);
+    // 彩蛋：输入 wow 出现礼花
+if (query === 'wow') {
+  alert('🎉 你发现了彩蛋！');
+}
 }
 
 /**
