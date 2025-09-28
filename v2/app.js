@@ -172,6 +172,7 @@ window.__countsForCurrentQuery = counts;
         return matchesQuery && matchesSource;
     });
 
+    renderSources(['all', ...new Set(raw.map(x => x.source))]);
     // 渲染结果
     render(view);
     // 彩蛋：输入 wow 出现礼花
